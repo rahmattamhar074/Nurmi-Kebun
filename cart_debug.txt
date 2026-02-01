@@ -1,0 +1,16 @@
+[2026-01-13 14:19:10] local.INFO: Cart API called {"user_id":"019b9421-ba65-70ff-9694-eed050d4f2de","user_email":"customer@example.com","user_role":"customer"} 
+[2026-01-13 14:19:10] local.INFO: Cart items found {"count":0} 
+[2026-01-13 14:19:12] local.INFO: Cart API called {"user_id":"019b9421-ba65-70ff-9694-eed050d4f2de","user_email":"customer@example.com","user_role":"customer"} 
+[2026-01-13 14:19:12] local.INFO: Cart items found {"count":1} 
+[2026-01-13 14:19:16] local.INFO: Cart API called {"user_id":"019b9421-ba65-70ff-9694-eed050d4f2de","user_email":"customer@example.com","user_role":"customer"} 
+[2026-01-13 14:19:16] local.INFO: Cart items found {"count":2} 
+[2026-01-13 14:19:23] local.INFO: Cart API called {"user_id":"019b9421-ba65-70ff-9694-eed050d4f2de","user_email":"customer@example.com","user_role":"customer"} 
+[2026-01-13 14:19:23] local.INFO: Cart items found {"count":1} 
+[2026-01-13 14:20:20] local.INFO: Cart API called {"user_id":"019bb63a-674a-7261-bd4e-0ecef86392ab","user_email":"send2nacht@gmail.com","user_role":"customer"} 
+[2026-01-13 14:20:20] local.INFO: Cart items found {"count":0} 
+[2026-01-13 14:20:26] local.INFO: Cart API called {"user_id":"019bb63a-674a-7261-bd4e-0ecef86392ab","user_email":"send2nacht@gmail.com","user_role":"customer"} 
+[2026-01-13 14:20:26] local.INFO: Cart items found {"count":0} 
+[2026-01-13 14:21:00] local.INFO: Cart API called {"user_id":"019bb63a-674a-7261-bd4e-0ecef86392ab","user_email":"send2nacht@gmail.com","user_role":"customer"} 
+[2026-01-13 14:21:00] local.INFO: Cart items found {"count":0} 
+[2026-01-13 14:21:38] local.INFO: Cart API called {"user_id":"019bb63a-674a-7261-bd4e-0ecef86392ab","user_email":"send2nacht@gmail.com","user_role":"customer"} 
+[2026-01-13 14:21:38] local.INFO: Cart items found {"count":0} 

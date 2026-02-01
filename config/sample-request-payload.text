@@ -1,0 +1,14 @@
+{
+    "origin_postal_code": 71415,
+    "destination_postal_code": 40113,
+    "couriers": "jne,jnt",
+    "items": [
+        {
+            "name": "Monstera",
+            "description": "Tanaman Hias Gede Banget",
+            "weight": 1000,
+            "quantity": 1,
+            "value": 149000
+        }
+    ]
+}
