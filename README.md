@@ -17,10 +17,6 @@ By default, packages like Laravel Breeze use regular JavaScript for React. Howev
 - User Password
 - User Deletion
 
-### Tes
-
-tes
-
 ### Quick Login
 
 This project includes a quick login feature. Simply add `/dev/login/{user_id}` to the URL to log in as a specific user.
